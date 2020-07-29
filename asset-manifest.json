@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Pacientes.git/static/css/main.4c798faf.chunk.css",
-    "main.js": "/Pacientes.git/static/js/main.04ec0123.chunk.js",
-    "main.js.map": "/Pacientes.git/static/js/main.04ec0123.chunk.js.map",
-    "runtime-main.js": "/Pacientes.git/static/js/runtime-main.cffbe393.js",
-    "runtime-main.js.map": "/Pacientes.git/static/js/runtime-main.cffbe393.js.map",
-    "static/js/2.7aab9922.chunk.js": "/Pacientes.git/static/js/2.7aab9922.chunk.js",
-    "static/js/2.7aab9922.chunk.js.map": "/Pacientes.git/static/js/2.7aab9922.chunk.js.map",
-    "index.html": "/Pacientes.git/index.html",
-    "precache-manifest.f27ad733dd541c5e6f40ee188b23febd.js": "/Pacientes.git/precache-manifest.f27ad733dd541c5e6f40ee188b23febd.js",
-    "service-worker.js": "/Pacientes.git/service-worker.js",
-    "static/css/main.4c798faf.chunk.css.map": "/Pacientes.git/static/css/main.4c798faf.chunk.css.map",
-    "static/js/2.7aab9922.chunk.js.LICENSE.txt": "/Pacientes.git/static/js/2.7aab9922.chunk.js.LICENSE.txt"
+    "main.css": "/19sebastian95/Pacientes.git/static/css/main.4c798faf.chunk.css",
+    "main.js": "/19sebastian95/Pacientes.git/static/js/main.17d8e5a2.chunk.js",
+    "main.js.map": "/19sebastian95/Pacientes.git/static/js/main.17d8e5a2.chunk.js.map",
+    "runtime-main.js": "/19sebastian95/Pacientes.git/static/js/runtime-main.cc952d27.js",
+    "runtime-main.js.map": "/19sebastian95/Pacientes.git/static/js/runtime-main.cc952d27.js.map",
+    "static/js/2.7aab9922.chunk.js": "/19sebastian95/Pacientes.git/static/js/2.7aab9922.chunk.js",
+    "static/js/2.7aab9922.chunk.js.map": "/19sebastian95/Pacientes.git/static/js/2.7aab9922.chunk.js.map",
+    "index.html": "/19sebastian95/Pacientes.git/index.html",
+    "precache-manifest.c69b157f95e031b9e4d1d50ad1f57f53.js": "/19sebastian95/Pacientes.git/precache-manifest.c69b157f95e031b9e4d1d50ad1f57f53.js",
+    "service-worker.js": "/19sebastian95/Pacientes.git/service-worker.js",
+    "static/css/main.4c798faf.chunk.css.map": "/19sebastian95/Pacientes.git/static/css/main.4c798faf.chunk.css.map",
+    "static/js/2.7aab9922.chunk.js.LICENSE.txt": "/19sebastian95/Pacientes.git/static/js/2.7aab9922.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cffbe393.js",
+    "static/js/runtime-main.cc952d27.js",
     "static/js/2.7aab9922.chunk.js",
     "static/css/main.4c798faf.chunk.css",
-    "static/js/main.04ec0123.chunk.js"
+    "static/js/main.17d8e5a2.chunk.js"
   ]
 }
