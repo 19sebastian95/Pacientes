@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/19sebastian95/Pacientes.git/static/css/main.4c798faf.chunk.css",
-    "main.js": "/19sebastian95/Pacientes.git/static/js/main.cd1bd66c.chunk.js",
-    "main.js.map": "/19sebastian95/Pacientes.git/static/js/main.cd1bd66c.chunk.js.map",
-    "runtime-main.js": "/19sebastian95/Pacientes.git/static/js/runtime-main.3be27a62.js",
-    "runtime-main.js.map": "/19sebastian95/Pacientes.git/static/js/runtime-main.3be27a62.js.map",
-    "static/js/2.f0652661.chunk.js": "/19sebastian95/Pacientes.git/static/js/2.f0652661.chunk.js",
-    "static/js/2.f0652661.chunk.js.map": "/19sebastian95/Pacientes.git/static/js/2.f0652661.chunk.js.map",
-    "index.html": "/19sebastian95/Pacientes.git/index.html",
-    "precache-manifest.a123e6f56ff5d30f0f8182464035f15a.js": "/19sebastian95/Pacientes.git/precache-manifest.a123e6f56ff5d30f0f8182464035f15a.js",
-    "service-worker.js": "/19sebastian95/Pacientes.git/service-worker.js",
-    "static/css/main.4c798faf.chunk.css.map": "/19sebastian95/Pacientes.git/static/css/main.4c798faf.chunk.css.map",
-    "static/js/2.f0652661.chunk.js.LICENSE.txt": "/19sebastian95/Pacientes.git/static/js/2.f0652661.chunk.js.LICENSE.txt"
+    "main.css": "/Pacientes/static/css/main.4c798faf.chunk.css",
+    "main.js": "/Pacientes/static/js/main.2c99a53f.chunk.js",
+    "main.js.map": "/Pacientes/static/js/main.2c99a53f.chunk.js.map",
+    "runtime-main.js": "/Pacientes/static/js/runtime-main.ef2f16d3.js",
+    "runtime-main.js.map": "/Pacientes/static/js/runtime-main.ef2f16d3.js.map",
+    "static/js/2.f0652661.chunk.js": "/Pacientes/static/js/2.f0652661.chunk.js",
+    "static/js/2.f0652661.chunk.js.map": "/Pacientes/static/js/2.f0652661.chunk.js.map",
+    "index.html": "/Pacientes/index.html",
+    "precache-manifest.b9a0d1b48faefed4798f5d0caa41a321.js": "/Pacientes/precache-manifest.b9a0d1b48faefed4798f5d0caa41a321.js",
+    "service-worker.js": "/Pacientes/service-worker.js",
+    "static/css/main.4c798faf.chunk.css.map": "/Pacientes/static/css/main.4c798faf.chunk.css.map",
+    "static/js/2.f0652661.chunk.js.LICENSE.txt": "/Pacientes/static/js/2.f0652661.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3be27a62.js",
+    "static/js/runtime-main.ef2f16d3.js",
     "static/js/2.f0652661.chunk.js",
     "static/css/main.4c798faf.chunk.css",
-    "static/js/main.cd1bd66c.chunk.js"
+    "static/js/main.2c99a53f.chunk.js"
   ]
 }
